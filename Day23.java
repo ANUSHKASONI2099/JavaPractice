@@ -1,5 +1,5 @@
 public class Day23 {
     public static void main(String[] args) {
-        System.out.println("hello world minnn hdeiww");
+        System.out.println("hello world minnn hdeiww kjjjjjjjjj");
     }
 }
